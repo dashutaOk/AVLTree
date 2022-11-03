@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Daria/CLionProjects/AVLTree/main.cpp
+iostream
+-
+map
+-
+utility
+-
+functional
+-
+memory
+-
+iterator
+-
+
